@@ -1,0 +1,6 @@
+.venv/
+vectorstores/
+uploads/
+question_paper.db
+.env
+__pycache__/
